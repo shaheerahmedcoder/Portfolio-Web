@@ -16,7 +16,6 @@ Check out the live website:
 
 **Frontend**  
 - React  
-- Next.js  
 - TypeScript  
 - TailwindCSS  
 - Styled Components  
