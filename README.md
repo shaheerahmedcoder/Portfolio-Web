@@ -7,7 +7,7 @@ Welcome to my personal portfolio! I’m **Shaheer Ahmed**, a Frontend Web Develo
 ## 🔗 Live Demo
 
 Check out the live website:  
-🌐 ([(https://shaheer-portfolio-ten.vercel.app/)](https://shaheer-portfolio-ten.vercel.app/))
+🌐 ([([https://shaheer-three.vercel.app/](https://shaheer-three.vercel.app/))]
 
 
 ---
@@ -16,7 +16,6 @@ Check out the live website:
 
 **Frontend**  
 - React  
-- Next.js  
 - TypeScript  
 - TailwindCSS  
 - Styled Components  
